@@ -1,1 +1,2 @@
 ini adalah clone belajar dri sebelmunya
+belajar git & github
